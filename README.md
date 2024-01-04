@@ -1,4 +1,7 @@
-### Hi there 👋
+You can find my personal projects on [codeberg.org/adamnejm](https://codeberg.org/adamnejm).
+
+Stuff on GitHub is most likely outdated.
+
 
 <!--
 **adamnejm/adamnejm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
