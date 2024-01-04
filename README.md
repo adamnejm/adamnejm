@@ -1,4 +1,4 @@
-You can find my personal projects on [codeberg.org/adamnejm](https://codeberg.org/adamnejm).
+You can find my repositories at [codeberg.org/adamnejm](https://codeberg.org/adamnejm).
 
 Stuff on GitHub is most likely outdated.
 
