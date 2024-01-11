@@ -1,6 +1,6 @@
 
 ### You can find my repositories at [codeberg.org/adamnejm](https://codeberg.org/adamnejm)
-Stuff on GitHub is unmaintained and most likely outdated.
+Stuff on GitHub is unmaintained and possibly broken.
 
 
 <!--
